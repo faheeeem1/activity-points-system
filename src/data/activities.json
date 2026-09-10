@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "uid": "u2408027",
+    "title": "Smart India Hackathon",
+    "category": "Technical",
+    "date": "2026-02-15",
+    "description": "Participated in a national-level hackathon.",
+    "pointsClaimed": 20,
+    "pointsApproved": 20,
+    "status": "Approved"
+  },
+  {
+    "id": 2,
+    "uid": "u2408027",
+    "title": "Web Development Workshop",
+    "category": "Technical",
+    "date": "2026-03-10",
+    "description": "Completed a workshop on modern web development.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": 3,
+    "uid": "u2408027",
+    "title": "Inter-College Football Tournament",
+    "category": "Sports",
+    "date": "2026-04-05",
+    "description": "Represented the college in an inter-college football tournament.",
+    "pointsClaimed": 15,
+    "pointsApproved": 15,
+    "status": "Approved"
+  },
+  {
+    "id": 4,
+    "uid": "u2408027",
+    "title": "Blood Donation Camp",
+    "category": "Social Service",
+    "date": "2026-05-12",
+    "description": "Participated in a college-organized blood donation camp.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": 5,
+    "uid": "u2408027",
+    "title": "Student Innovation Challenge",
+    "category": "Entrepreneurship",
+    "date": "2026-06-20",
+    "description": "Presented an innovative solution at a student innovation event.",
+    "pointsClaimed": 15,
+    "pointsApproved": 0,
+    "status": "Pending"
+  }
+]

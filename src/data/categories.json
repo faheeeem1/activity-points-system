@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Technical",
+    "description": "Technical competitions, workshops, hackathons and coding activities",
+    "icon": "💻"
+  },
+  {
+    "id": 2,
+    "name": "Professional",
+    "description": "Professional development, internships and industry-related activities",
+    "icon": "🎓"
+  },
+  {
+    "id": 3,
+    "name": "Sports",
+    "description": "Sports competitions and physical activities",
+    "icon": "⚽"
+  },
+  {
+    "id": 4,
+    "name": "Cultural",
+    "description": "Cultural events, arts, music and creative activities",
+    "icon": "🎭"
+  },
+  {
+    "id": 5,
+    "name": "Social Service",
+    "description": "Community service, volunteering and social initiatives",
+    "icon": "🤝"
+  },
+  {
+    "id": 6,
+    "name": "Entrepreneurship",
+    "description": "Startup, innovation and entrepreneurship activities",
+    "icon": "💡"
+  },
+  {
+    "id": 7,
+    "name": "Leadership",
+    "description": "Leadership roles, student organizations and event management",
+    "icon": "👑"
+  }
+]
